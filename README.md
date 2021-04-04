@@ -1,4 +1,4 @@
-# react-native-js-login
+# React-Native-Login-JS
 
 You must update the App credentials to yours at constants/Keys.js.
 
